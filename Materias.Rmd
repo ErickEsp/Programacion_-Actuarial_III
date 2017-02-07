@@ -1,0 +1,46 @@
+---
+title: "Materias"
+author: "Erick Espinoza"
+date: "6 de febrero de 2017"
+output: html_document
+---
+
+## Otono 2015
+
+Matematicas Basicas: **6**
+
+Probelmas de Matematicas Basicas: **6**
+
+Introducción Actuarial: **10**
+
+Programación Actuarial: **9**
+
+Conceptos de Calculo: **7**
+
+DHPC:**7**
+
+---
+
+##Primavera 2016
+
+Calculo Diferencial:**5**
+
+Teoria de Interes**5**
+
+Programación Actuarial II:**7**
+
+Formacion:**9**
+
+Teoria del Interes:**8**
+---
+
+##Otoño 2016
+Teoria del Interes II: **8**
+
+Calculo Diferencial: **8**
+
+Contabilidad General: **8**
+
+Microeconomia: **6**
+
+---
